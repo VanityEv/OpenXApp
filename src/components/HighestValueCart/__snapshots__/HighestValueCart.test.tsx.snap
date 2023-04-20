@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: HighestValueCart should render the same component 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation3 css-1yocq7i-MuiPaper-root"
+  >
+    <h5
+      class="MuiTypography-root MuiTypography-h5 css-ph2xsj-MuiTypography-root"
+    >
+      Task 3
+    </h5>
+    <h6
+      class="MuiTypography-root MuiTypography-subtitle1 css-118o8hd-MuiTypography-root"
+    >
+      Highest Value Cart:
+    </h6>
+    <div
+      class="MuiBox-root css-0"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-llyu5n-MuiTypography-root"
+      >
+        Owner:
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-1c1be42-MuiTypography-root"
+      >
+        danny doe
+      </p>
+    </div>
+    <div
+      class="MuiBox-root css-0"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-llyu5n-MuiTypography-root"
+      >
+        Value:
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-1c1be42-MuiTypography-root"
+      >
+        1279.48
+      </p>
+    </div>
+  </div>
+</div>
+`;
