@@ -20,6 +20,8 @@ Implementation of this task is available in file `src\components\UsersDistanceCo
 
 All API data types are available in file `APIData.types.ts`
 
+Mock data for tests is stored in `src\test\testData.constants.ts`
+
 ## Scripts
 
 - Tests:
